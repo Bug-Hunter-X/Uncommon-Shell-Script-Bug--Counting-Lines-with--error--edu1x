@@ -1,0 +1,1 @@
+This repository contains a shell script that counts lines containing the substring "error" in a file.  However, the script can be susceptible to errors when dealing with unusual characters or empty lines within the input file. The solution demonstrates robust handling of these scenarios.
